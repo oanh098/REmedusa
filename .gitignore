@@ -27,3 +27,6 @@ dist/**
 .vscode
 
 **/tsconfig.tsbuildinfo
+
+**/my-medusa-store2-storefront
+**/my-medusa-store2
